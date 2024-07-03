@@ -38,3 +38,8 @@ div.card.bg-light {
 div.card.bg-light i.text-primary {
   color: #ffd105 !important;
 }
+
+div.card.bg-light h5 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
