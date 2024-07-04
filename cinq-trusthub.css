@@ -41,5 +41,6 @@ div.card.bg-light i.text-primary {
 }
 
 div.card.bg-light h5 {
+  color: #000000;
   font-size: 1.5rem;
 }
