@@ -30,14 +30,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 div.card.bg-light {
-  background-color: #76bc21 !important;
+  background-color: #ffffff !important;
+  border: 2px solid #008558 !important;
   border-radius: 5px;
   font-size: 1.5rem;
   font-weight: 700;
 }
 
 div.card.bg-light i.text-primary {
-  color: #ffd105 !important;
+  color: #008558 !important;
 }
 
 div.card.bg-light h5 {
